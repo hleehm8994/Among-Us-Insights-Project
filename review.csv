@@ -1,0 +1,42 @@
+user_id,date_id,review_platform,rating,review_details
+1,1,App Store,5,love the game
+2,2,Play Store,1,items too expensive
+3,3,Play Store,2,network loss
+4,4,App Store,4,Good design
+5,5,Play Store,4,Good
+6,6,Play Store,1,Boring
+7,7,App Store,2,not much items 
+8,8,App Store,2,Repeating map 
+9,9,Play Store,3,Map repeat and repeat
+10,10,App Store,2,network loss
+11,11,Play Store,4,Good design
+12,12,App Store,4,Good
+13,13,App Store,1,Boring
+14,14,App Store,2,not much items 
+15,15,App Store,5,love the game
+16,16,App Store,1,items too expensive
+17,17,App Store,2,network loss
+18,18,App Store,4,Good design
+19,19,App Store,4,Good
+20,20,App Store,1,Boring
+21,21,App Store,2,not much items 
+22,22,Play Store,2,Repeating map 
+23,23,Play Store,3,Map repeat and repeat
+24,24,Play Store,2,network loss
+25,25,Play Store,4,Good design
+26,26,Play Store,4,Good
+27,27,App Store,1,Boring
+28,28,Play Store,2,not much items 
+29,29,Play Store,2,Repeating map 
+30,30,App Store,3,Map repeat and repeat
+31,31,App Store,2,network loss
+32,32,Play Store,4,Good design
+33,33,Play Store,4,Good
+34,34,Play Store,1,Boring
+35,35,Play Store,2,not much items 
+36,36,App Store,5,love the game
+37,37,App Store,1,items too expensive
+38,38,App Store,2,network loss
+39,39,App Store,4,Good
+40,40,App Store,1,Boring
+41,41,App Store,2,not much items 

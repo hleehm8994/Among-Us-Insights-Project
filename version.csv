@@ -1,0 +1,10 @@
+version_id,date_id,map_id,role_id,task_id,update_detail
+1,1,2,2,1,Map and Task expansion
+2,2,9,1,5,Role winning condition changed
+3,3,3,1,3,Role winning condition changed
+4,4,4,1,1,Map and Task expansion
+5,5,1,2,4,Map and Task expansion
+6,6,5,2,6,Map and Task expansion
+7,7,1,1,5,Role winning condition changed
+8,8,2,1,3,Map and Task expansion
+9,9,4,2,4,Role winning condition changed

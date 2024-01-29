@@ -1,0 +1,42 @@
+user_id,username,device,level,location_id,country,region,city,language,login_method,email,joined_date_id
+1,potato01,iOS,3,1,Canada,BC,Vancouver,English,appleid,potato@apple.com,1
+2,tomatoxx,android,7,2,United States,NY,New York City,English,google,tomatoxx@gmail.com,2
+3,can01,android,10,3,Hong Kong,HK,Hong Kong,English,google,can01@gmail.com,3
+4,ann02,android,11,4,United States,SF,San Francisco,English,google,ann02@gmail.com,4
+5,ann03,android,3,2,United States,NY,New York City,English,google,ann03@gmail.com,5
+6,ann04,iOS,2,3,Hong Kong,HK,Hong Kong,English,google,ann04@gmail.com,6
+7,ann05,android,5,5,Australia,AU,Sydney,English,google,ann05@gmail.com,7
+8,ann06,android,7,3,Hong Kong,HK,Hong Kong,English,appleid,ann02@gmail.com,8
+9,ann07,iOS,20,4,United States,SF,San Francisco,English,appleid,ann02@gmail.com,9
+10,ann08,android,45,2,United States,NY,New York City,English,appleid,ann02@gmail.com,10
+11,ann09,iOS,22,3,Hong Kong,HK,Hong Kong,English,appleid,ann02@gmail.com,11
+12,ann10,android,4,5,Australia,AU,Sydney,English,appleid,ann02@gmail.com,12
+13,ann11,android,7,4,United States,SF,San Francisco,English,appleid,tomatoxx@gmail.com,13
+14,can01,iOS,24,2,United States,NY,New York City,English,appleid,tomatoxx@gmail.com,14
+15,can02,android,3,3,Hong Kong,HK,Hong Kong,English,appleid,tomatoxx@gmail.com,15
+16,can03,android,56,5,Australia,AU,Sydney,English,appleid,tomatoxx@gmail.com,16
+17,can04,iOS,21,3,Hong Kong,HK,Hong Kong,English,appleid,tomatoxx@gmail.com,17
+18,can05,android,2,4,United States,SF,San Francisco,English,appleid,tomatoxx@gmail.com,18
+19,can06,android,1,2,United States,NY,New York City,English,appleid,tomatoxx@gmail.com,19
+20,can07,iOS,2,5,Australia,AU,Sydney,English,google,tomatoxx@gmail.com,20
+21,can08,android,2,3,Hong Kong,HK,Hong Kong,English,google,tomatoxx@gmail.com,21
+22,can09,android,2,4,United States,SF,San Francisco,English,google,tomatoxx@gmail.com,22
+23,can10,iOS,5,2,United States,NY,New York City,English,google,tomatoxx@gmail.com,23
+24,can11,iOS,6,3,Hong Kong,HK,Hong Kong,English,google,tomatoxx@gmail.com,24
+25,can12,iOS,7,5,Australia,AU,Sydney,English,appleid,tomatoxx@gmail.com,25
+26,AU01,iOS,5,4,United States,SF,San Francisco,English,appleid,tomatoxx@gmail.com,26
+27,AU02,android,35,2,United States,NY,New York City,English,appleid,tomatoxx@gmail.com,27
+28,AU03,android,46,3,Hong Kong,HK,Hong Kong,English,appleid,tomatoxx@gmail.com,28
+29,AU04,iOS,36,5,Australia,AU,Sydney,English,google,tomatoxx@gmail.com,29
+30,AU05,android,35,3,Hong Kong,HK,Hong Kong,English,google,tomatoxx@gmail.com,30
+31,AU06,iOS,2,2,United States,NY,New York City,English,google,tomatoxx@gmail.com,31
+32,AU07,android,43,3,Hong Kong,HK,Hong Kong,English,google,tomatoxx@gmail.com,32
+33,AU08,android,27,5,Australia,AU,Sydney,English,appleid,tomatoxx@gmail.com,33
+34,AU09,iOS,37,4,United States,SF,San Francisco,English,appleid,tomatoxx@gmail.com,34
+35,AU10,android,35,2,United States,NY,New York City,English,appleid,tomatoxx@gmail.com,35
+36,AU11,iOS,57,3,Hong Kong,HK,Hong Kong,English,google,tomatoxx@gmail.com,36
+37,AU12,iOS,12,5,Australia,AU,Sydney,English,google,tomatoxx@gmail.com,37
+38,HK1,iOS,23,3,Hong Kong,HK,Hong Kong,English,appleid,tomatoxx@gmail.com,38
+39,HK2,iOS,24,4,United States,SF,San Francisco,English,appleid,tomatoxx@gmail.com,39
+40,HK3,android,14,2,United States,NY,New York City,English,google,tomatoxx@gmail.com,40
+41,HK4,android,24,5,Australia,AU,Sydney,English,google,tomatoxx@gmail.com,41
